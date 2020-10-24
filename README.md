@@ -1,6 +1,8 @@
 # rizal-zeri
 My name is Rizal Zeri Subakti. I was born in Tegal. My address is Pangkah,Tegal. I am a student at Diponegoro University.  I belong to the class of 2020. I am 18 years old. I'm the first child. 
 ### Hello...
+
+https://github.com/rizalzeri/rizal-zeri/edit/main/README.md
 --> i'm interested to be a Developer 
 #### i'm currently learning with help from docs.github.com
 #### i'm going to contribution and joining with Developer Students Club ITB and I will try hard to join those contributions
